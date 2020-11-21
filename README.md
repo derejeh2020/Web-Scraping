@@ -28,3 +28,8 @@ urlbase_half_2016 = 'https://www.runrocknroll.com/Events/Nashville/The-Races/Hal
 After loading the marathon and half-marathon data to DataFrames in Python, perform EDA as usual. Think of a question that you find interesting and answer it by exploring the data. Prepare a brief (5 minutes) presentation to share what you find.
 
 runners
+
+
+
+
+
